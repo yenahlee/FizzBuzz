@@ -46,7 +46,7 @@ Below is a blank checkbox:
 - [X] Put an X in the [ ] to mark this as done!
 
 You can edit this file directly to check off these checkboxes throughout the lab to mark things as done.
-Do so now for the checkbox above.
+Do so now for the checkbox above. (small edit)
 
 And now, back to Fizz Buzz!
 
